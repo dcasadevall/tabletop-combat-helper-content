@@ -17,3 +17,6 @@ MonoBehaviour:
   pets: []
   sprite: {fileID: 21300000, guid: 2945f72349e0145eb8214f3edc1c8bfe, type: 3}
   avatarSprite: {fileID: 21300000, guid: 2945f72349e0145eb8214f3edc1c8bfe, type: 3}
+  unitStats:
+    speed: 30
+    visibilityRadius: 100

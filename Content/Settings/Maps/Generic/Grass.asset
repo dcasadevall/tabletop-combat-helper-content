@@ -19,7 +19,9 @@ MonoBehaviour:
       numTilesY: 100
       centeredAtWorldZero: 1
       originWorldPosition: {x: 0, y: 0}
+    sectionIndex: 0
     sectionName: Grass
     sprites:
     - {fileID: 21300000, guid: a41c959d0122d485da5b254c516a6396, type: 3}
     generationType: 0
+    tileMetadataPairs: []

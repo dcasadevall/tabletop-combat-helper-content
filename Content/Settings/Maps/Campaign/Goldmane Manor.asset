@@ -19,6 +19,7 @@ MonoBehaviour:
       numTilesY: 38
       centeredAtWorldZero: 1
       originWorldPosition: {x: 0, y: 0}
+    sectionIndex: 0
     sectionName: 1st Floor
     sprites:
     - {fileID: 21300000, guid: 797c902e6062f45c8a0930a7673ddb50, type: 3}
@@ -126,11 +127,13 @@ MonoBehaviour:
     - {fileID: 21300000, guid: 0fcf0e1d7edb842529d2dbb386d75a43, type: 3}
     - {fileID: 21300000, guid: 4dc13b31b992e496b9de7071c3eb7107, type: 3}
     generationType: 1
+    tileMetadataPairs: []
   - gridData:
       numTilesX: 63
       numTilesY: 38
       centeredAtWorldZero: 1
       originWorldPosition: {x: 0, y: 0}
+    sectionIndex: 1
     sectionName: 
     sprites:
     - {fileID: 21300000, guid: 79810e2b5efad498293451e6da7a597d, type: 3}
@@ -238,3 +241,4 @@ MonoBehaviour:
     - {fileID: 21300000, guid: 2e2d65e17603746c0a1d78bd4f9bcae0, type: 3}
     - {fileID: 21300000, guid: f1d3b40943a1f4f49a2b4dc94777d2b5, type: 3}
     generationType: 1
+    tileMetadataPairs: []

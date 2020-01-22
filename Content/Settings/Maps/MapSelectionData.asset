@@ -13,27 +13,21 @@ MonoBehaviour:
   m_Name: MapSelectionData
   m_EditorClassIdentifier: UnityEngine.CoreModule:UnityEngine:ScriptableObject
   mapReferences:
-  - name: Farathar
-    mapData:
+  - _name: Farathar
+    _mapData:
       m_AssetGUID: 99bd98f4046f84229ac1ecfae2feb2f2
-      m_SubObjectName: 
-  - name: Grotto
-    mapData:
-      m_AssetGUID: 46fec75a272f4490b837f47af4d08089
-      m_SubObjectName: 
-  - name: Big Map
-    mapData:
-      m_AssetGUID: 3ddfbdd824ded41f8b19d4713f2c8cc8
-      m_SubObjectName: 
-  - name: Goldmane
-    mapData:
+  - _name: Goldmane
+    _mapData:
       m_AssetGUID: 2f11d4816a0c642adba3c77703bc7b66
-      m_SubObjectName: 
-  - name: Tiled Map
-    mapData:
+  - _name: Grotto
+    _mapData:
+      m_AssetGUID: 46fec75a272f4490b837f47af4d08089
+  - _name: Chase
+    _mapData:
+      m_AssetGUID: 3ddfbdd824ded41f8b19d4713f2c8cc8
+  - _name: TiledMap
+    _mapData:
       m_AssetGUID: a0f23619dc62844b68dd3827d90f6e3d
-      m_SubObjectName: 
-  - name: Grass
-    mapData:
+  - _name: Grass
+    _mapData:
       m_AssetGUID: dad0e82a6ed854fe18f5caafe8ee37dd
-      m_SubObjectName: 

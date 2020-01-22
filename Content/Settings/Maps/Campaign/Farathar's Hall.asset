@@ -19,16 +19,26 @@ MonoBehaviour:
       numTilesY: 20
       centeredAtWorldZero: 1
       originWorldPosition: {x: 0, y: 0}
+    sectionIndex: 0
     sectionName: Floor 1
     sprites:
     - {fileID: 21300000, guid: 5b7d3d577e4ca4c3b92e039a351f754c, type: 3}
     generationType: 1
+    tileMetadataPairs:
+    - tileCoords: {x: 10, y: 19}
+      tileMetadata:
+        sectionConnection: 1
   - gridData:
       numTilesX: 20
       numTilesY: 20
       centeredAtWorldZero: 1
       originWorldPosition: {x: 0, y: 0}
+    sectionIndex: 1
     sectionName: Floor 2
     sprites:
     - {fileID: 21300000, guid: 5b7d3d577e4ca4c3b92e039a351f754c, type: 3}
     generationType: 1
+    tileMetadataPairs:
+    - tileCoords: {x: 10, y: 0}
+      tileMetadata:
+        sectionConnection: 0

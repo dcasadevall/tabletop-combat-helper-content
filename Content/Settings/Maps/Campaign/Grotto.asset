@@ -19,7 +19,9 @@ MonoBehaviour:
       numTilesY: 20
       centeredAtWorldZero: 1
       originWorldPosition: {x: 0, y: 0}
+    sectionIndex: 0
     sectionName: Floor 1
     sprites:
     - {fileID: 21300000, guid: b4d14224704cb445483bffc6ea840336, type: 3}
     generationType: 1
+    tileMetadataPairs: []

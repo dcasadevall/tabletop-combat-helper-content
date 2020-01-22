@@ -127,14 +127,20 @@ MonoBehaviour:
     - {fileID: 21300000, guid: 0fcf0e1d7edb842529d2dbb386d75a43, type: 3}
     - {fileID: 21300000, guid: 4dc13b31b992e496b9de7071c3eb7107, type: 3}
     generationType: 1
-    tileMetadataPairs: []
+    tileMetadataPairs:
+    - tileCoords: {x: 22, y: 31}
+      tileMetadata:
+        sectionConnection: 1
+    - tileCoords: {x: 22, y: 30}
+      tileMetadata:
+        sectionConnection: 1
   - gridData:
       numTilesX: 63
       numTilesY: 38
       centeredAtWorldZero: 1
       originWorldPosition: {x: 0, y: 0}
     sectionIndex: 1
-    sectionName: 
+    sectionName: 2nd Floor
     sprites:
     - {fileID: 21300000, guid: 79810e2b5efad498293451e6da7a597d, type: 3}
     - {fileID: 21300000, guid: 964423fc9f78747858a5250f47bd2f25, type: 3}

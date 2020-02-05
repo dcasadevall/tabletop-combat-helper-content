@@ -24,10 +24,13 @@ MonoBehaviour:
     sprites:
     - {fileID: 21300000, guid: 5b7d3d577e4ca4c3b92e039a351f754c, type: 3}
     generationType: 1
+    hasPlayerUnitSpawnPoint: 1
+    playerUnitSpawnPoint: {x: 10, y: 0}
     tileMetadataPairs:
     - tileCoords: {x: 10, y: 19}
       tileMetadata:
         sectionConnection: 1
+        units: []
   - gridData:
       numTilesX: 20
       numTilesY: 20
@@ -38,7 +41,6 @@ MonoBehaviour:
     sprites:
     - {fileID: 21300000, guid: 5b7d3d577e4ca4c3b92e039a351f754c, type: 3}
     generationType: 1
-    tileMetadataPairs:
-    - tileCoords: {x: 10, y: 0}
-      tileMetadata:
-        sectionConnection: 0
+    hasPlayerUnitSpawnPoint: 0
+    playerUnitSpawnPoint: {x: 0, y: 0}
+    tileMetadataPairs: []
